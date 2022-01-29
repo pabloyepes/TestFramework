@@ -1,0 +1,5 @@
+.idea
+*__pycache__
+allure
+credentials.json
+node_modules

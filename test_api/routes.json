@@ -1,0 +1,3 @@
+{
+    "/employee/:id": "/employees?id=:id"
+  }

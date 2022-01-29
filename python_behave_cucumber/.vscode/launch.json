@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Behave: Current Feature",
+            "env": {
+                "PYDEVD_WARN_EVALUATION_TIMEOUT": "500"
+            },
+            "type": "python",
+            "request": "launch",
+            "module": "behave",
+            "console": "integratedTerminal",
+            "args": [
+                "${file}",
+            ]
+        },
+        {
+            "name": "Behave: specific scenario",
+            "env": {
+                "PYDEVD_WARN_EVALUATION_TIMEOUT": "500"
+            },
+            "type": "python",
+            "request": "launch",
+            "module": "behave",
+            "console": "integratedTerminal",
+            "args": [
+                "tests/api/features/employee.feature",
+                "-n",
+                "Check the creation of multiple employees with an outline -- @1.2"
+            ]
+        }
+    ]
+}

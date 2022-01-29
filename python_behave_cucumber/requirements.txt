@@ -1,0 +1,7 @@
+selenium>=4.1.0
+pyhamcrest>=2.0.3
+behave>=1.2.6
+appium-python-client>=2.1.2
+allure-behave>=2.9.45
+webdriver-manager >= 3.5.2
+requests >= 2.27.1
