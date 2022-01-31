@@ -3,8 +3,8 @@ class EnvironmentConfig(object):
     @staticmethod
     def employees_api():
         return {
-            "PROD": "http://localhost:3000",
-            "STAGE": "	http://notworking-localhost:3000",
+            "PROD": "http://127.0.0.1:3000",
+            "STAGE": "	http://notworking-127.0.0.1:3000",
             "QA": ""
         }
 

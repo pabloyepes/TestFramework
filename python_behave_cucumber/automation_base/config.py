@@ -10,7 +10,6 @@ class Timeout:
     L = 30
     XL = 60
     XXL = 90
-    XXXL = 240
 
 
 class ConfigurationParser(object):

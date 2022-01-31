@@ -215,48 +215,6 @@
       "employee_salary": 85600,
       "employee_age": 23,
       "profile_image": ""
-    },
-    {
-      "employee_name": "Juan None",
-      "employee_salary": 1111,
-      "employee_age": 32,
-      "profile_image": "",
-      "id": 25
-    },
-    {
-      "employee_name": "First Test User",
-      "employee_salary": "1234",
-      "employee_age": "33",
-      "profile_image": "",
-      "id": 26
-    },
-    {
-      "employee_name": "First Test User",
-      "employee_salary": "1234",
-      "employee_age": "33",
-      "profile_image": "",
-      "id": 27
-    },
-    {
-      "employee_name": "First Test User",
-      "employee_salary": "1234",
-      "employee_age": "33",
-      "profile_image": "",
-      "id": 28
-    },
-    {
-      "employee_name": "First Test User",
-      "employee_salary": "1234",
-      "employee_age": "33",
-      "profile_image": "",
-      "id": 29
-    },
-    {
-      "employee_name": "First Test User",
-      "employee_salary": "1234",
-      "employee_age": "33",
-      "profile_image": "",
-      "id": 30
     }
   ]
 }
