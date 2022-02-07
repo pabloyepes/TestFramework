@@ -1,5 +1,5 @@
 @create_team
-Feature: Messages
+Feature: Employee
 
   Background:
     Given The "admin" user is logged in
